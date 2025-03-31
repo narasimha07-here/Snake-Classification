@@ -26,9 +26,9 @@ The model is trained on a dataset containing images of various snake species lab
 To run this project, clone the repository and install the dependencies:
 ```bash
 
-https://github.com/narasimha07-here/Snake-Classification.git
-cd snake-classification
 
+cd snake-classification
+git clone https://github.com/narasimha07-here/Snake-Classification.git
 
 pip install -r requirements.txt
 ```
